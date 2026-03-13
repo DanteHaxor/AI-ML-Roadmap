@@ -4,6 +4,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+.virtual_documents/
 
 # Virtual Environment
 venv/
@@ -11,3 +12,9 @@ venv/
 
 # OS
 .DS_Store
+
+# Dataset outputs
+*.csv
+
+# Databases
+*.db
